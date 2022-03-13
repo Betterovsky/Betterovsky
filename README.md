@@ -8,6 +8,8 @@
 ![PHP](https://img.shields.io/badge/-Php-black?style=flat&logo=php)
 ![CSS](https://img.shields.io/badge/-Css-black?style=flat&logo=css)
 
+
+![Maven](https://img.shields.io/badge/-Maven-181717?style=flat&logo=maven)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
