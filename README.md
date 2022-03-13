@@ -14,10 +14,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-e6322d?style=flat&logo=github)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-e6322d?style=flat&logo=springboot)
 
-![Javascript](https://img.shields.io/badge/-Javascript-e6322d?style=flat&logo=javascript)
+![Javascript](https://img.shields.io/badge/-JavaScript-e6322d?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-e6322d?style=flat&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/-Php-e6322d?style=flat&logo=php)
-![CSS](https://img.shields.io/badge/-Css-e6322d?style=flat&logo=css)
+![PHP](https://img.shields.io/badge/-PHP-e6322d?style=flat&logo=php)
+![CSS](https://img.shields.io/badge/-CSS-e6322d?style=flat&logo=css)
 
 #### 🌐 Projects:
 - [onlypvp.pl](https://onlypvp.pl) (Java Developer 2017-2022)
