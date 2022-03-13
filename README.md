@@ -5,6 +5,7 @@
 #### 💻 So far I've used:
 
 ![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-e6322d?style=flat&logo=springboot)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-e6322d?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-e6322d?style=flat&logo=mysql)
@@ -12,7 +13,6 @@
 
 ![ApacheMaven](https://img.shields.io/badge/-ApacheMaven-e6322d?style=flat&logo=apachemaven)
 ![GitHub](https://img.shields.io/badge/-GitHub-e6322d?style=flat&logo=github)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-e6322d?style=flat&logo=springboot)
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-e6322d?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-e6322d?style=flat&logo=html5&logoColor=white)
