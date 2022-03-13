@@ -4,7 +4,7 @@
 
 #### 💻 So far I've used:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-e6322d?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-e6322d?style=flat&logo=mysql)
