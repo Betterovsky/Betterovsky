@@ -4,7 +4,7 @@
 
 #### 💻 So far I've used:
 
-![Maven](https://img.shields.io/badge/-Maven-e6322d?style=flat&logo=maven)
+![ApacheMaven](https://img.shields.io/badge/-ApacheMaven-e6322d?style=flat&logo=apachemaven)
 ![GitHub](https://img.shields.io/badge/-GitHub-e6322d?style=flat&logo=github)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-e6322d?style=flat&logo=springboot)
 ![Java](https://img.shields.io/badge/-Java-e6322d?style=flat&logo=java)
